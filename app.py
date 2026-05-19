@@ -429,6 +429,6 @@ if start_button:
 # ---------------------------------------------------
 st.markdown("""
 <div class="footer">
-Made with ❤️ using Streamlit, Requests & BeautifulSoup
+Made By Ali Huzaifa using Streamlit, Requests & BeautifulSoup
 </div>
 """, unsafe_allow_html=True)
